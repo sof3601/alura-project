@@ -1,0 +1,56 @@
+body {
+background-color: rosybrown;
+color: pink
+}
+
+header{
+padding-left: 70px;
+font-size: 33px;
+}
+
+section{
+display:flex;
+justify-content:center;
+}
+
+.chamada-texto{
+margin-right: 5%;
+}
+
+h1{
+font-size: 43
+}
+
+
+h2{
+    font-size: 44;
+}
+
+.chamada-texto2{
+margin-right: 5%;
+}
+
+h3{
+    font-size: 45;
+}
+
+.chamada-texto3{
+    margin-right:5%;
+}
+
+
+h4{
+    font-size: 50;
+}
+
+.chamada-texto4{
+    margin-right: 5%;
+}
+
+h5{
+    font-size: 50 ;
+}
+
+.chamada-texto5{
+    margin-right: 5%;
+}
